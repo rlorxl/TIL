@@ -51,7 +51,7 @@ server.listen().then(({ url }) => {
 });
 ```
 
-여기까지 작성 후 실행하면 studio.apollographql.com으로 연결되고 작성한 스키마를 테스트할 수 있다.
+여기까지 작성 후 실행하면 sandbox가 연결되고 작성한 스키마를 테스트할 수 있다.
 
 <img width="962" alt="스크린샷 2023-01-25 오후 8 21 25" src="https://user-images.githubusercontent.com/90922593/214550713-c7707204-2d4b-4a07-aee6-7444ef831b4d.png">
 
